@@ -1,0 +1,20 @@
+{
+  "name": "toyota-slides-image-generator",
+  "version": "1.0.0",
+  "description": "Generate images from HTML slides",
+  "main": "generate-slide-images.js",
+  "scripts": {
+    "generate": "node generate-slide-images.js"
+  },
+  "keywords": [
+    "slides",
+    "screenshot",
+    "puppeteer"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^21.5.0"
+  }
+}
+
